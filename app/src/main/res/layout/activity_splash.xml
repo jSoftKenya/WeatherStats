@@ -1,0 +1,19 @@
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/txtSplashText"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:layout_gravity="center_horizontal"
+
+    android:gravity="center"
+    android:text="Weather App\n(By Dennis)"
+    android:shadowColor="@color/Black"
+    android:textColor="@color/DarkBlue"
+    android:shadowDx="3"
+    android:shadowDy="3"
+    android:shadowRadius="5"
+    android:textAppearance="?android:attr/textAppearanceLarge"
+    android:textStyle="normal"
+    >
+
+</TextView>
